@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is my master branch 
+=======
+this is my featre branck
+>>>>>>> featurebranch
